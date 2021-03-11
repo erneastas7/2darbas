@@ -1,0 +1,10 @@
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\bin\Debug\2darbas.exe.config
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\bin\Debug\2darbas.exe
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\bin\Debug\2darbas.pdb
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\obj\Debug\2darbas.csprojAssemblyReference.cache
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\obj\Debug\_2darbas.Form1.resources
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\obj\Debug\_2darbas.Properties.Resources.resources
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\obj\Debug\2darbas.csproj.GenerateResource.cache
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\obj\Debug\2darbas.csproj.CoreCompileInputs.cache
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\obj\Debug\2darbas.exe
+C:\Users\Huh\Desktop\Informacijos saugumas\2darbas\2darbas\obj\Debug\2darbas.pdb
